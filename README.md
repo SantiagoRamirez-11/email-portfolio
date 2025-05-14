@@ -26,7 +26,7 @@ This project is a small **landing page** that showcases several email templates 
 
 ## 🎯 ¿Cuál es el objetivo? / What's the Goal?
 
-Mostrar que es posible construir **emails funcionales, estéticos y universales**, listos para usarse en campañas profesionales, demostrando que el diseño y la compatibilidad no están reñidos.
+Mostrar que es posible construir **emails funcionales, estéticos y universales**, listos para usarse en campañas profesionales, demostrando que se pueden crear emails visualmente atractivos sin perder compatibilidad entre plataformas.
 
 ---
 
